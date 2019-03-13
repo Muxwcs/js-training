@@ -6,6 +6,15 @@
  *
  */
 
+function total(){
+    let myArray = [1, 1, 1, 10, 10, 10, 24, -10, 10, 0, 0, 100];
+    let sum = 0;
+    for (i = 0; i <= myArray.length; i++){
+        sum += myArray[i];
+    }
+}
+return(total);
+
 
 //* Begin of tests
 const assert = require('assert')
