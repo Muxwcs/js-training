@@ -8,6 +8,8 @@
  */
 
 // Your code :
+let getLength = ['pouet', 'salut'];
+return(getLength.length);
 
 //* Begin of tests
 const assert = require('assert')

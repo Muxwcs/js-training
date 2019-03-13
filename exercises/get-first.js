@@ -8,7 +8,8 @@
  */
 
 // Your code :
-
+let getFirst = ['pouet', 'salut'];
+return(getFirst[1]);
 //* Begin of tests
 const assert = require('assert')
 
